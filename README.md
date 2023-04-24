@@ -4,7 +4,7 @@ Dad, passionate about Design and technology
 <br />
 
 - 🔭 Learning HTML, JavaScript, SASS, Next and React.
-- ⚡ Currently working as a Product Designer at [Ambev Tech](https://ambevtech.com.br)
+- ⚡ Currently working as a UX/UI Designer at [Ambev Tech](https://ambevtech.com.br)
 - 💻 10 years' in tech working experience.
 
 <br />
