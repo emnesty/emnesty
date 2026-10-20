@@ -1,14 +1,10 @@
 ### Hi there i'm Luciano Silva <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25" height="25" />
 Dad, passionate about design and technology
-
 <br />
-
 - 🔭 Learning HTML, JavaScript, SASS, Next and React.
 - ⚡ Currently working as a UX/UI Designer at [Ambev Tech](https://ambevtech.com.br)
 - 💻 10 years' in tech working experience.
-
 <br />
-
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucianoclecio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianoclecio/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:legostr@gmail.com) -->
