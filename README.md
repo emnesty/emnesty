@@ -9,8 +9,6 @@ Dad, passionate about design and technology
 
 <br />
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emnesty&layout=compact)](https://github.com/emnesty/github-readme-stats)
-
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucianoclecio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianoclecio/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:legostr@gmail.com) -->
